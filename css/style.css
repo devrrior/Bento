@@ -23,7 +23,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url("../assets/prueba.jpg");
+  --imgbg: url("../assets/bg.jpg");
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
