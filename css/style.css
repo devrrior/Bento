@@ -7,7 +7,7 @@
   --fsg: 135px; /* Time and Greetings */
   --fsm: 75px; /* Date */
   --fss: 25px; /* Greetings and Weather widger */
-  --fses: 16px; /* Links List */
+  --fses: 20px; /* Links List */
 
   /* Light theme  */
   --accent: #4b8ec4; /* Hover color */
@@ -23,7 +23,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url("/Users/fernando/Library/Mobile Documents/com~apple~CloudDocs/more-wallpaper/bendroom.jpeg");
+  --imgbg: url("../assets/blue-and-white-artistic-feather-4k-abstract.jpg");
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
@@ -75,8 +75,8 @@ body {
 }
 
 #themeButton__icon {
-  width: 25px;
-  height: 25px;
+  width: 35px;
+  height: 35px;
 }
 
 .container {
@@ -194,8 +194,8 @@ body {
 }
 
 .buttonLink__icon {
-  width: 23px;
-  height: 23px;
+  width: 33px;
+  height: 33px;
   color: var(--fg);
 }
 
@@ -247,15 +247,15 @@ body {
 .list__head {
   margin-top: 30px;
   margin-bottom: 10px;
-  width: 30px;
+  width: 40px;
   color: var(--fg);
-  height: 30px;
+  height: 40px;
 }
 .list__link {
   text-decoration: none;
   font-size: var(--fses);
   color: var(--fg);
-  margin-top: 1px;
+  margin-top: 7px;
   padding: 6px 12px;
   border-radius: 5px;
   font-weight: bold;
